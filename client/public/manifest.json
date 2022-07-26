@@ -1,0 +1,8 @@
+{
+  "short_name": "Xenon Commerce",
+  "name": "Login Authentication using MERN Stack for Xenon Commerce",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
