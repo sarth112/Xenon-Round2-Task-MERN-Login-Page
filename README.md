@@ -1,12 +1,11 @@
 # **Simple User Registration and Login App with MongoDB, ExpressJs, React and NodeJs [MERN]**
 
-![Final App](./demo.mp4)
+![Final App](./demo.gif)
 Full-stack MERN app with authentication using passport and JWTs.
 
 ###  Made By:
 # Sarthak Deore
-
-
+<br>
 
 
 ##### This project uses the following technologies:
