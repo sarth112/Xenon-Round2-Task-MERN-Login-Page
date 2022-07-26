@@ -29,6 +29,7 @@ class Home extends Component {
                   >
                     Signup
                   </Link>
+                  
                 </div>
               </div>
             </div>
